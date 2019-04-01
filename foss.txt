@@ -1,0 +1,9 @@
+total 0
+-rwxrwxrwx 1 cec-t98 root    0 Feb  7 23:32 f1.txt
+-rwxrwxrwx 1 cec-t98 cec-t98 0 Feb  7 23:32 f2.txt
+-rwxrwxrwx 1 cec-t98 cec-t98 0 Feb  7 23:32 f3.doc
+-rw-r--r-- 1 cec-t98 cec-t98 0 Feb 14 22:08 foss.txt
+f1.txt
+f2.txt
+f3.doc
+foss.txt
